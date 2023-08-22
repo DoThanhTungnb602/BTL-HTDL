@@ -1,0 +1,15 @@
+.map {
+  height: 99.75vh;
+  width: 70vw;
+  float: left;
+}
+
+.righ-panel {
+  height: 50vh;
+  width: 27vw;
+  float: left;
+}
+
+.map {
+  border: 1px solid #cccccc;
+}
